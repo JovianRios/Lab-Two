@@ -1,0 +1,35 @@
+{
+	"name": [
+		"Jovian",
+		"Jose",
+		"Javier",
+		"Bobby",
+		"Carlos",
+		"Josh",
+		"Rob"
+	],
+	"occupation": [
+		"doctor",
+		"firefighter",
+		"pilot",
+		"nurse",
+		"plumber"
+	],
+	"always": [
+		"angry",
+		"upset",
+		"bothered",
+		"aggravated"
+	],
+	"expecting": [
+		"because of",
+		"with"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# his new coworker named #name#, he did not know how to complete the task that was given to him which resulted in #argument# between the two."
+	],
+	"argument": [
+		"a fight",
+		"an argument"
+	]
+}
